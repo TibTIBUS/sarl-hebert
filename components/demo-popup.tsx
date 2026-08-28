@@ -28,13 +28,13 @@ export function DemoPopup() {
             Ce site a été conçu à titre de démonstration, spécialement pour <strong>SARL HEBERT</strong>.
             Il n’a pas vocation à rester en ligne sous cette forme — dites-moi si vous souhaitez
             qu’on le mette en place pour de bon, avec votre propre nom de domaine
-            (exemple : <strong>sarl-herbert.fr</strong>).
+            (exemple : <strong>sarl-hebert.fr</strong>).
           </DialogDescription>
         </DialogHeader>
         <div className="demo-actions">
           <a
             className="demo-button demo-button-primary"
-            href="mailto:gestion.localia@gmail.com?subject=P3C%20Manche%20%E2%80%94%20le%20site%20vous%20pla%C3%AEt%20%3F"
+            href="mailto:gestion.localia@gmail.com?subject=SARL%20HEBERT%20%E2%80%94%20le%20site%20vous%20pla%C3%AEt%20%3F"
           >
             <Mail size={18} />
             Écrire à Thibaut
