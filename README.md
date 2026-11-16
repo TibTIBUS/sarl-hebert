@@ -1,6 +1,6 @@
 # Site de démonstration — SARL HEBERT
 
-Site vitrine consacré à l’aménagement extérieur et au terrassement de la SARL HEBERT à Lessay, réalisé par Localia.
+Site vitrine consacré à l’aménagement extérieur et au terrassement de la SARL HEBERT à Lessay, réalisé par Thibaut Marie (Sites Web & Logiciels).
 
 Le site est publié automatiquement avec GitHub Pages à chaque modification de la branche `main`.
 
